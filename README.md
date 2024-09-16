@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaswanth Akina</h1>
-<h3 align="center">I am a Data Engineer with over 3.5 years of experience in designing and architecting scalable data processing and analytics solutions using Azure, Databricks, and ML. I hold multiple certifications in Azure fundamentals, data fundamentals, AI fundamentals, Databricks data engineering, and generative AI.</h3>
+<h3 align="center">I am a Data Engineer with over 3.5 years of experience </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderguyjay" alt="coderguyjay" /></a> </p>
 
